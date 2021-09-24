@@ -1,0 +1,4 @@
+github.com/wallyqs/go-mod-a v0.0.0-20210924201556-e67af2677460/go.mod h1:+86UH/9vUOVQadGIBaupYvn1FMXQIzXpXqmGtq28JPk=
+github.com/wallyqs/go-mod-b v0.0.0-20210924195232-cc93d43aa245/go.mod h1:IMoYMTpn8BaoMzQP+9DeRp7bHQv/n+jAhQfguxXc9oM=
+github.com/wallyqs/go-mod-b v0.1.0 h1:3Qz5nQ0B98wlrwiXv7dEW2PhPfRqPB+dTmHPI08Dr/8=
+github.com/wallyqs/go-mod-b v0.1.0/go.mod h1:BtD/yaPmz5Vf2OMu9+VcCNvR9I60VpeZTKvBQsUD5wg=
